@@ -1,7 +1,7 @@
 // 1
 // let a = 'hello'
 // let b = 'Ivan'
-// console.log(a.slice(0,1).toUpperCase() + a.slice(1)+ ' '+b);
+// console.log(a.slice(0,1).toUpperCase() + a.slice(1)+ ' '+b.slice(0,1).toLowerCase()+b.slice(1));
 
 // 2
 // let a = 'lorem ipsum dolor'
